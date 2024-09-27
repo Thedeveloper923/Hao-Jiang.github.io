@@ -8,16 +8,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Education"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Experiences"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Honours"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Biography"
     url: /year-archive/
     
   - title: "CV"
