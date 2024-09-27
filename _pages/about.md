@@ -17,9 +17,9 @@ I insist on using development and reform to promote the healthy growth of the lo
 
 Educational experience
 ======
-1999.09-2003.07 Bachelor     Chinese Language and Literature    Fudan University 
+1999.09-2003.07  Bachelor---Chinese Language and Literature---Fudan University 
 
-2020.09-2023.04  Master      Business Administration            Xi'an Jiaotong University 
+2020.09-2023.04  Master-----Business Administration-----------Xi'an Jiaotong University 
 
 Site-wide configuration
 ------
