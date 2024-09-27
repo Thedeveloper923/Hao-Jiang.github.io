@@ -9,7 +9,7 @@ redirect_from:
 
 Jiang Hao, male, Han nationality, born in Benxi, Liaoning Province in June 1980, started work in July 2003 and joined the CPC in September 2001. He has a full-time postgraduate degree and a master's degree in business administration from Xi'an Jiaotong University. The current Chairman, Party Secretary, and General Manager of Yanchang Petroleum Logistics Group are fully responsible for the company's party and government management as well as production and operation work.
 
-biography
+Biography
 ======
 Always strictly demand oneself with a work attitude of seeking truth, pragmatism, diligence, and innovation. Since serving as the general manager of the logistics group, I have focused my efforts and led the main business indicators of the logistics group to reach new heights. 
 
