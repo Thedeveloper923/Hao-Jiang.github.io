@@ -28,19 +28,31 @@ The Innovative Path of the Construction of Grassroots Party Branches of State-ow
 Reflections on Optimizing the Party Branch of State-owned Enterprises under the Situation of Comprehensively and Strictly Governing the Party,    Business Information,    2020.12
 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+**Honours**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+Experiences
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+From July 2020 to November 2021, served as Deputy Chief Economist of Product Distribution Company, Executive Director, General Manager and Party Branch Secretary of Yanchang Petrochemical Sales (Shanghai) Co.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+From November 2021 to November 2022, served as Deputy Chief Economist of Product Distribution Company, Executive Director, General Manager, Party Branch Member and Deputy Secretary of Yanchang Petrochemical Sales (Shanghai) Co.
+
+From November 2022 to now, he has served as General Manager and Deputy Secretary of the Party Committee of Yanchang Petroleum Logistics Group, and is in charge of the overall party and government work of the Logistics Group.
+
+Presided over the scientific and technological project of ‘Research on Optimisation of Supply Chain Logistics System’.
+
+Presided over the ‘Pre-feasibility Study Project of Transformation and Upgrading of LinTong Oil Depot of Yanchang Group’.
+
+Presided over the scientific and technological project of ‘Study on Building Strategic New Capabilities of Logistics Group’.
+
+Presided over the Project of Creating Enterprise Technology Centre
+
+Participated in the scientific and technological project of ‘Optimisation Study on Safety Control System of Hazardous Chemicals Road Transportation’.
+
+Responsible for the Feasibility Study of Blow-Moulded Pallet Production and Construction Project
 
 For more info
 ------
